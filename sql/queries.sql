@@ -15,8 +15,8 @@ SELECT
 FROM HDBFlat_Sales
 GROUP BY town;
 
---Top 5 Most Expensive Towns (per sqm)
-SELECT TOP 5
+--Top 10 Most Expensive Towns (per sqm)
+SELECT TOP 10
     town,
     ROUND(AVG(Price_per_sqm), 2) AS avg_price_per_sqm
 FROM HDBFlat_Sales 
