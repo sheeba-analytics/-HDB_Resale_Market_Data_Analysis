@@ -12,13 +12,13 @@ The dashboard visualizes key insights derived from the HDB resale transaction da
 - Top 10 town by price and transaction
 - classify town based on price level and transactions
 - Town Comparison Across Key Metrics
-- Flat Price analysis
 - Price drivers
 
 ## Dashboard Features
 
 - Interactive filters for year, town, and flat type
-- Drill-down analysis for deeper exploration
+- Implemented drill-through analysis to allow users to explore underlying detailed data, providing deeper insights and interactive exploration.
 - KPI indicators for market trends
+- Customized tooltips to provide additional contextual insights when hovering over visuals
 
 The dashboard helps identify pricing patterns, high-demand towns, and market changes in Singapore’s HDB resale market.
