@@ -13,9 +13,9 @@ These screenshots provide a quick visual overview of the analysis and insights.
 
 **town_comparison.png** – Comparison of towns across metrics like average price and transaction volume.
 
-**flat_pricing.png** – Impact of flat age and flat type on pricing.
+**flat_price_analysis.png** – Impact of flat age and flat type on pricing.
 
-**town_region analysis.png** – Visualization of pricing and transaction patterns across towns and regions.
+**town_region_analysis.png** – Visualization of pricing and transaction patterns across towns and regions.
 
 ## Note
 These screenshots represent the visuals available in the interactive Power BI dashboard located in the **PowerBI** folder.
