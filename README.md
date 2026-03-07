@@ -77,17 +77,26 @@ Key steps included:
 
          │── README.md         # Description of datasets and file usage
 
-│
-├── PowerBI/              # Power BI reports
-│   └── README.md         # Overview of dashboards and features (interactive visuals, drill-through, filters, Customized tooltips)
-│
-├── screenshots/          # Screenshots of dashboards and key analysis visuals
-│   └── README.md         # Explains what each screenshot represents
-│
-├── SQL/                  # SQL scripts used analysis
-│   └── README.md         # Description of SQL scripts and queries
-│
-├── presentation/         # Project presentation slides
-│   └── README.md         # Overview of slides and key points covered
-│
-└── README.md             # Main project README providing overall project overview, objectives, and insights     				
+
+├── PowerBI              # Power BI reports
+
+         │── README.md         # Overview of dashboards and features (interactive visuals, drill-through, filters, Customized tooltips)
+
+
+
+── screenshots          # Screenshots of dashboards and key analysis visuals
+
+
+         │── README.md         # Explains what each screenshot represents
+
+── SQL                  # SQL scripts used analysis
+ 
+        │── README.md         # Description of SQL scripts and queries
+
+
+── presentation         # Project presentation slides
+        
+        │── README.md         # Overview of slides and key points covered
+
+
+── README.md             # Main project README providing overall project overview, objectives, and insights     				
