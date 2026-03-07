@@ -51,31 +51,16 @@ Key steps included:
 
 ## Key Insights
 
+- HDB resale prices have shown long-term appreciation despite short-term fluctuations
 - Mature towns such as Queenstown and Bukit Merah show significantly higher average resale prices.
 - Larger flat types generally command higher resale values compared to smaller units.
 - Price per square meter varies considerably across towns, reflecting differences in location demand.
 - Older flats tend to have slightly lower resale prices compared to newer flats.
-- Resale price trends indicate steady market growth in recent years.
-
-  Key Takeaways:	
-	• 	HDB resale prices have shown long-term appreciation 				despite short-term fluctuations.
-	• 	Flats, located at the Central Region, with a higher storey 			level and a younger age, tend to command a higher 				resale price.
-	• 	Market movements align closely with macroeconomic 				and policy shifts.
+- Market movements align closely with macroeconomic and policy shifts.
 
   ## Recommendations
 
-- Buyers seeking affordable options may consider non-mature towns where price per square meter is lower.
+- Buyers seeking affordable options may consider non-mature towns, older flats, or lower floors, where price per square meter is lower.
 - Investors may focus on towns with strong historical price growth.
 - Policymakers can use these insights to monitor housing affordability trends across regions.
-
-  Recommendations:
-	• Home Buyers : 	Consider outer towns, older flats, or lower 							floors for more affordable options.
-	
-	• Policymakers:	Support balanced development and monitor 						high-demand areas to maintain affordability.
-	• Analysts:			Include flat age, size, floor, and 										macroeconomics factors  (e.g. recession 								periods) when analyzing or forecasting prices.
-<img width="4141" height="487" alt="image" src="https://github.com/user-attachments/assets/d3bef6f6-2ff2-41a0-af6e-60ddcc429ea5" />
-
-
-
-
-
+- Analysts should consider flat age, size, floor, and macroeconomic factors (e.g., recession periods) when analyzing or forecasting prices.										
