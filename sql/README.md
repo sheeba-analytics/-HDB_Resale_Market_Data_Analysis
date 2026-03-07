@@ -6,7 +6,7 @@ The queries focus on:
 
 - Price trends and Transactions by year
 - Average resale price by town
-- Top 5 Most Expensive Towns by price per sqm
+- Top 10 Most Expensive Towns by price per sqm
 - Impact of flat age and flat type on resale price
 - Classification of towns based on price level and transactions
 
