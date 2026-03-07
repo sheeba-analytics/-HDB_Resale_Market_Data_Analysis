@@ -80,8 +80,8 @@ Key steps included:
 
 ├── PowerBI              # Power BI reports
 
-         │── README.md         # Overview of dashboards and features (interactive visuals, drill-through, filters, Customized tooltips)
-
+         │── README.md         # Overview of dashboards and features (interactive visuals, drill-through, 
+                                      filters, Customized tooltips)
 
 
 ── screenshots          # Screenshots of dashboards and key analysis visuals
